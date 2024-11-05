@@ -11,3 +11,5 @@ add_subdirectory(ntdll)
 add_subdirectory(opengl)
 add_subdirectory(shellext)
 add_subdirectory(win32)
+
+add_subdirectory(dui)
